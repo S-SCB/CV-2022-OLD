@@ -1,0 +1,19 @@
+body{
+    background-color: papayawhip;
+   }
+   
+   hr{
+       width: 30%;
+       border-style: dotted none none;
+       border-width: 5px;
+       height: 3px;
+       border-color: grey;
+   }
+   h1{
+    color: #F94A29;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   h3{
+    color: #F94A29;
+    font-family: Arial, Helvetica, sans-serif;
+   }
