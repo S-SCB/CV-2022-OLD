@@ -1,19 +1,63 @@
 body{
-    background-color: papayawhip;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+   margin: 50px auto 0 auto;
+   font-family: 'Sacramento', cursive;
+   font-size: 5.625rem;
+   color: #66BFBF;
+   line-height: 2;
+}
+.top_container{
+    background-color: #CDF0EA;
+    position: relative;
+    padding-top: 100px;
+}
+.Middle_container{
    }
-   
-   hr{
-       width: 30%;
-       border-style: dotted none none;
-       border-width: 5px;
-       height: 3px;
-       border-color: grey;
-   }
-   h1{
-    color: #F94A29;
-    font-family: Arial, Helvetica, sans-serif;
-   }
-   h3{
-    color: #F94A29;
-    font-family: Arial, Helvetica, sans-serif;
-   }
+.Bottom_container{
+    
+}
+.pro{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.Profile_picture{
+    width: 20%;
+}
+.C_Programming{
+    width: 20%;
+}
+.Web_Development{
+    width: 20%;
+}
+.subtitle{
+    font-size: 2.5rem;
+    font-family: "Merriweather Sans", sans-serif;
+    font-weight: bold;
+}
+.footer_link:link {
+    color: #11999E;
+}
+.skill-row{
+    width: 50%; 
+    margin: 50px auto 50px auto;
+}
